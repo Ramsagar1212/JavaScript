@@ -19,9 +19,9 @@ for (let i = 1; i <= 10; i++) {
 
 
 let myArray = ["flash","batman ","superman"]
-console.log(myArray.length);
+// console.log(myArray.length);
 for(let i = 0; i < myArray.length; i++){
-    console.log(myArray[i]);
+    // console.log(myArray[i]);
 }
 
 // break and continue
